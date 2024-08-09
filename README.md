@@ -5,9 +5,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=om-666&label=Profile%20views&color=0e75b6&style=flat" alt="om-666" /> </p>
 
 - 🔭 I’m currently intern at **Reverie Language Technologies** .
-
-- 🌱 I’m expanding my knowledge in **🐍 Python** and diving deep into the **OpenAI API**.
-
 - 👯 I'm an **Open Source Contributor** at **Code For GovTech 2023**. Check out my contributions to the [Code For GovTech 2023](https://c4gt-milestones.vercel.app/docs/2023/Sunbird%20ED/Implement%20Independent%20SSO%20Flow%20on%20NPM%20Package/) initiative.
 
 - 👨‍💻 Explore my projects at [My GitHub Portfolio](https://github.com/om-666).
